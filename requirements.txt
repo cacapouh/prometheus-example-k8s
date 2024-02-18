@@ -1,2 +1,2 @@
-prometheus-flask-exporter
-Flask
+bottle
+prometheus_client
